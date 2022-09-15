@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow("Still in shock!")
+cowsay.dragon("I'll light you on FIRE!")
